@@ -1,6 +1,6 @@
 {
-  "applicationName": "FluffyChat",
-  "defaultHomeserver": "matrix.org",
+  "applicationName": "Fluffy",
+  "defaultHomeserver": "chat.lvey.top",
   "presetHomeserver": "",
   "welcomeText": "",
   "privacyUrl": "https://github.com/krille-chan/fluffychat/blob/main/PRIVACY.md",
